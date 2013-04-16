@@ -1,0 +1,3 @@
+Dallas;Brown;1175 Majestic View Lane;Oconomowoc;WI;53066;dbrown69@my.wctc.edu;2624437112
+Steven;Luna;1234 Awsome Drive;Oconomowoc;WI;53066;sluna42@my.wctc.edu;2625674273
+Connor;Wolfe;4200 Tree Street;Waukesha;WI;54673;cwolfe2@my.wctc.edu;2624437118
